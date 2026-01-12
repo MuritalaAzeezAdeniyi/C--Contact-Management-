@@ -1,0 +1,6 @@
+@ContactManagementSyatem_HostAddress = http://localhost:5215
+
+GET {{ContactManagementSyatem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
